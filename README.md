@@ -25,8 +25,10 @@ supabase functions deploy published-site-content
 
 ## Install
 
+From GitHub release tarball:
+
 ```bash
-npm i elevate-site-content-client
+npm i https://github.com/TylerBoni/elev8-site-content-client/releases/download/v0.1.0/elevate-site-content-client-0.1.0.tgz
 ```
 
 ## Usage (browser)
